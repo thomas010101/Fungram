@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+go.sum
+*_mock.go
+.idea
+logs
+.env
+*.framework
+*.aar
+*.jar
+.DS_Store
+*.test.go
